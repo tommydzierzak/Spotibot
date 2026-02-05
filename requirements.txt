@@ -6,6 +6,6 @@ eyed3 == 0.9.7
 
 spotipy == 2.25.2
 
-requests == 2.32.2
+requests == 2.32.4
 
 yt-dlp == 2024.10.7
