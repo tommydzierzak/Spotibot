@@ -5,6 +5,9 @@ services:
     #build:
     #  context: .
     #  dockerfile: ./Dockerfile
+    dns: # Added so pihole doesn't cause issues
+      - 8.8.8.8
+      - 8.8.4.4
     environment:
       - SPOTIPY_CLIENT_ID=
       - SPOTIPY_CLIENT_SECRET=
