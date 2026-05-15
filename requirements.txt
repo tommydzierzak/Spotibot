@@ -4,7 +4,7 @@ python-telegram-bot == 20.5
 
 eyed3 == 0.9.7
 
-spotipy == 2.25.2
+spotipy == 2.26.0
 
 requests == 2.32.4
 
